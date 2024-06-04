@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4EDE5"
+    tools:context=".FuncionariosMostrados"
+    tools:layout_editor_absoluteX="-1dp"
+    tools:layout_editor_absoluteY="13dp">
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="315dp"
+        android:layout_height="140dp"
+        android:background="#E9C46A"
+        android:backgroundTint="#E9C46A"
+        app:srcCompat="@drawable/rectangle_31"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="367dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="315dp"
+        android:layout_height="140dp"
+        android:background="#2A9D8F"
+        app:srcCompat="@drawable/rectangle_31"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="521dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="315dp"
+        android:layout_height="140dp"
+        android:background="#E76F51"
+        android:backgroundTint="#E76F51"
+        app:srcCompat="@drawable/rectangle_31"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="214dp" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Funcionários recomendados pela
+da DiversaIn: 3"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="102dp" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="oferta recusada"
+        tools:layout_editor_absoluteX="265dp"
+        tools:layout_editor_absoluteY="140dp" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="entre em contato"
+        tools:layout_editor_absoluteX="80dp"
+        tools:layout_editor_absoluteY="140dp" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ellipse_5"
+        tools:layout_editor_absoluteX="57dp"
+        tools:layout_editor_absoluteY="175dp" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        app:srcCompat="@drawable/ellipse_4"
+        tools:layout_editor_absoluteX="57dp"
+        tools:layout_editor_absoluteY="143dp" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="aguardando resposta"
+        tools:layout_editor_absoluteX="83dp"
+        tools:layout_editor_absoluteY="172dp" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gabriel Firmamento"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="222dp" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Menezete"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="378dp" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contato: pipiquenunes@gmail.com"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="469dp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Diversidade: Pessoa em situação de refúgio"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="439dp" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Função: Front-End"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="409dp" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Luahn Kaiaque"
+        tools:layout_editor_absoluteX="58dp"
+        tools:layout_editor_absoluteY="529dp" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contato: (22)94033-2211"
+        tools:layout_editor_absoluteX="57dp"
+        tools:layout_editor_absoluteY="622dp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Função: Designer"
+        tools:layout_editor_absoluteX="57dp"
+        tools:layout_editor_absoluteY="561dp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Diversidade: Nova Iguaçu"
+        tools:layout_editor_absoluteX="57dp"
+        tools:layout_editor_absoluteY="591dp" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Função: Analista de dados"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="256dp" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Diversidade: Trans"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="294dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/image_19__1_"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="27dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="19dp"
+        android:layout_height="29dp"
+        app:srcCompat="@drawable/voltar_8__1_"
+        tools:layout_editor_absoluteX="337dp"
+        tools:layout_editor_absoluteY="27dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/_092564_about_mobile_ui_profile_ui_user_website_114033_2__1_"
+        tools:layout_editor_absoluteX="364dp"
+        tools:layout_editor_absoluteY="27dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contato: (21)97689-6547"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="326dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ellipse_6"
+        tools:layout_editor_absoluteX="242dp"
+        tools:layout_editor_absoluteY="143dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
